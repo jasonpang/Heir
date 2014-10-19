@@ -1,7 +1,7 @@
 /**
- * Heir v2.0.0 - http://git.io/F87mKg
- * Oliver Caldwell
- * MIT license
+ * Heir v3.0.0 - http://git.io/F87mKg
+ * Oliver Caldwell - http://oli.me.uk/
+ * Unlicense - http://unlicense.org/
  */
 
 (function (name, root, factory) {
