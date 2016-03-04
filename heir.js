@@ -79,9 +79,7 @@
             var key;
 
             for (key in source) {
-                if (heir.hasOwn(source, key)) {
-                    destination[key] = source[key];
-                }
+                destination[key] = source[key];
             }
         },
 
